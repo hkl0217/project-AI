@@ -20,11 +20,12 @@ h1 {
 }
 
 form {
-    background-color: #a2a8d3;
+    background-color: #a8b1ea;
     padding: 20px;
     border: 1px solid #113f67;
     border-radius: 3px;
     display: flex;
+    max-width: 75%;
 }
 
 .content {
@@ -42,4 +43,5 @@ form {
    border: 2px solid #113f67;
    font-size: 13px;
    line-height: 17px;
+   max-width: 15%
 }
