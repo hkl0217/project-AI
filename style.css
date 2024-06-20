@@ -23,12 +23,14 @@ h1 {
 }
 
 form {
-    background-color: #a8b1ea;
     padding: 20px;
     display: flex;
     max-width: 90%;
 }
 
+main {
+    background-color: #a8b1ea;
+}
 .content {
     padding: 10px;
     color: #113f67;
@@ -48,7 +50,7 @@ form {
    margin-left: 10px
 }
 .joke {
-
+    text-align: center;
 
 }
 
