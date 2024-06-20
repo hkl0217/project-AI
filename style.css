@@ -5,6 +5,7 @@ body {
 a {
     color: #38598b;
 }
+
 .container {
     margin: 10px 50px 20px;
     max-width: 500px;
@@ -24,10 +25,8 @@ h1 {
 form {
     background-color: #a8b1ea;
     padding: 20px;
-    border: 1px solid #113f67;
-    border-radius: 3px;
     display: flex;
-    max-width: 75%;
+    max-width: 90%;
 }
 
 .content {
