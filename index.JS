@@ -1,7 +1,7 @@
 function tellJoke(event) {
-    event.preventDefault()
+    event.preventDefault();
 
-    alert("knock knock")
+    alert("knock knock");
 }
 
 let generateJokeElement = document.querySelector("#joke-generator");
