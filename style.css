@@ -11,6 +11,10 @@ a {
     max-width: 500px;
 }
 
+header {
+    margin: 0 auto;
+}
+
 h1 {
     font-size: 27px;
     color: #113f67;
