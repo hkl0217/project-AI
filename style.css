@@ -30,15 +30,17 @@ form {
 
 main {
     background-color: #a8b1ea;
+    text-align: center;
 }
 .content {
     padding: 10px;
     color: #113f67;
-    width: 75%
+    width: 75%;
     border: 2px solid #113f67;
+    border-radius: 5px;
     font-size: 13px;
     line-height: 17px;
-    background-color: #e7eaf6
+    background-color: #e7eaf6;
 }
 
 .button {
@@ -47,10 +49,12 @@ main {
    font-size: 13px;
    line-height: 17px;
    max-width: 15%
-   margin-left: 10px
+   margin-left: 10px;
+   border-radius: 5px;
 }
+
 .joke {
-    text-align: center;
+ color: #113f67;
 
 }
 
