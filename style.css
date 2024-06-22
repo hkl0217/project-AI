@@ -37,6 +37,8 @@ form {
 main {
     background-color: #a8b1ea;
     text-align: center;
+    padding: 10px 20px 10px 20px;
+    margin-bottom: 10px;
 }
 .content {
     padding: 10px;
