@@ -67,6 +67,7 @@ opacity: .70;
 margin-top: 0px;
 font-size: 15px;
 line-height:10px;
+text-align: left;
 }
 
 .joke {
@@ -80,5 +81,5 @@ font-size: 13px;
 line-height: 15px;
 font-weight: light;
 text-align: center;
-margin-top: 27px;
+margin-top: 24px;
 }
