@@ -32,7 +32,7 @@ form {
     padding: 0 auto;
     display: flex;
     max-width: 100%;
-    margin: 0 auto;
+    margin-top: 20px;
 }
 
 main {
@@ -65,7 +65,7 @@ main {
 .topic{
 color: #113f67;
 opacity: .70;
-margin-top: 5px;
+margin-top: 10px;
 font-size: 15px;
 line-height:10px;
 text-align: left;
