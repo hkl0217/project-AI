@@ -63,19 +63,20 @@ main {
 }
 
 .topic { 
-color: #113f67;
-opacity: .70;
-margin-top: 10px;
-font-size: 15px;
-line-height:10px;
-text-align: left;
+    color: #113f67;
+    opacity: .70;
+    margin-top: 10px;
+    font-size: 15px;
+    line-height:10px;
+    text-align: left;
 }
 
 .joke {
-color: #113f67;
-margin-bottom: 10px;
-margin-top: 0;
-text-align: left;
+    color: #2064a0;
+    opacity: .80px;
+    margin-bottom: 10px;
+    margin-top: 0;
+    text-align: left;
 }
 
 .hidden {
