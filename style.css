@@ -61,9 +61,18 @@ main {
    border-radius: 5px;
 }
 
+.topic{
+color: #113f67;
+opacity: .60;
+margin-top: 0px;
+font-size: 10px;
+line-height:7px;
+}
+
 .joke {
  color: #113f67;
-
+margin-bottom: 10px;
+margin-top: 0;
 }
 
 footer {
